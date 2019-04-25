@@ -1,10 +1,16 @@
 <!DOCTYPE html>
-<a lang="en"></a>
+<html lang="en">
 <head>
+	<title>PWP Milestone One</title>
 	<meta charset="UTF-8">
-	<title>Milestone One</title>
 </head>
 <body>
+<div>
+	<p><b>User Story:</b></p>
+	<br>
+	<p>Geralt is a software developer working for a game studio. He is in need of someone who has experience
+	with coding and would like to bring them on board.</p>
+</div>
 <div>
 	<p><b>Purpose:</b></p>
 	<br>
@@ -18,31 +24,29 @@
 <div>
 	<p><b>Goal:</b></p>
 	<br>
-	<p>My goal is to present what I've worked on as a junior web developer and
-	eventually get hired gaining as much experience as I can so further down
-	the line I can work for a Developer Studio.</p>
+	<p>My goal is to search for an individual who meets the companies needs but can also bring something new to the
+	table.</p>
 </div>
 <div>
 	<p><b>Persona:</b></p>
 	<br>
 	<ul>
 		<li><b>Name:</b> Geralt Riviera</li>
-		<li><b>Age:</b> 21</li>
-		<li><b>Job:</b> Junior Web Developer</li>
-		<p><b>Technology:</b></p>
+		<li><b>Age:</b> 27</li>
+		<li><b>Job:</b> Head Software Developer</li>
+		<li><b>Technology:</b></li>
 		<li>iphone8plus with iOS12</li>
 		<li>Desktop with Intel Core i5-8265U Processor, GTX 1070, and 16gb ram.</li>
 		<li>HP Laptop with Intel Core i5-8250U CPU @ 1.60GHz, Intel UHD Graphics 620.</li>
-<div>
-		<p><b>Attitude:</b></p>
-		<li>One of the many frustrations they deal with is self doubt. Even when they're in a good situation they believe
-		somehow it will end badly. It's natural with people but it ultimately depends on how the person deals with it.
-		Through dedication and hardwork, Geralt has his portfolio to show he didn't let stress get to him.</li>
-	<p><b>Goals:</b></p>
-		<li>Geralt's main goal is for a great tech company to look over his portfolio and eventually hire him. He wants
-	to spend as many years as he can to gain experience. Through years of working and making connections he hopes to one
-	day work for a Developer Studio. It would be a different experience, but important for him to learn. Further down the
-			line he hopes to one day own his own studio.</li>
+	<li><b>Attitude:</b></li>
+		<li>Geralt has been in the tech industry for years but is at the point where he has to find skilled workers to
+		bring aboard his company to bring fresh new ideas to the table. </li>
+	<li><b>Goals:</b></li>
+		<li>Geralt's main goal is find someone who loves to code and has a passion for video games. Someone that can
+		both be inspired and inspire others with their passion.</li>
+	<li><b>Frustrations:</b></li>
+	<li>The main frustration for Geralt is that it's hard to find an individual who has that passion and doesn't
+	just focus on their paycheck.</li>
 	</ul>
 </div>
 </body>
